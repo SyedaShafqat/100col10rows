@@ -1,0 +1,101 @@
+vehicle_id,year,make,model,class,drive,transmission,transmission_type,engine_index,engine_descriptor
+26587,1984,Alfa Romeo,GT V6 2.5,Minicompact Cars,,Manual 5-Speed,,9001,(FFS)
+27705,1984,Alfa Romeo,GT V6 2.5,Minicompact Cars,,Manual 5-Speed,,9005,(FFS) CA model
+26561,1984,Alfa Romeo,Spider Veloce 2000,Two Seaters,,Manual 5-Speed,,9002,(FFS)
+27681,1984,Alfa Romeo,Spider Veloce 2000,Two Seaters,,Manual 5-Speed,,9006,(FFS) CA model
+27550,1984,AM General,DJ Po Vehicle 2WD,Special Purpose Vehicle 2WD,2-Wheel Drive,Automatic 3-Speed,,1830,(FFS)
+28426,1984,AM General,DJ Po Vehicle 2WD,Special Purpose Vehicle 2WD,2-Wheel Drive,Automatic 3-Speed,,1880,(FFS) CA model
+27549,1984,AM General,FJ8c Post Office,Special Purpose Vehicle 2WD,2-Wheel Drive,Automatic 3-Speed,,1831,(FFS)
+28425,1984,AM General,FJ8c Post Office,Special Purpose Vehicle 2WD,2-Wheel Drive,Automatic 3-Speed,,1881,(FFS) CA model
+27593,1984,American Motors Corporation,Eagle 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Automatic 3-Speed,,1524,(FFS)
+28455,1984,American Motors Corporation,Eagle 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Automatic 3-Speed,,1574,(FFS) CA model
+27591,1984,American Motors Corporation,Eagle 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Manual 4-Speed,,1405,(FFS)
+27594,1984,American Motors Corporation,Eagle 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Manual 4-Speed,,1504,(FFS)
+28454,1984,American Motors Corporation,Eagle 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Manual 4-Speed,,1455,(FFS)(SIL) CA model
+28456,1984,American Motors Corporation,Eagle 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Manual 4-Speed,,1554,(FFS) CA model
+27592,1984,American Motors Corporation,Eagle 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Manual 5-Speed,,1420,(FFS)
+27595,1984,American Motors Corporation,Eagle 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Manual 5-Speed,,1514,(FFS)
+28457,1984,American Motors Corporation,Eagle 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Manual 5-Speed,,1564,(FFS) CA model
+27585,1984,American Motors Corporation,Eagle SX/4 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Automatic 3-Speed,,1430,(FFS)
+27588,1984,American Motors Corporation,Eagle SX/4 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Automatic 3-Speed,,1524,(FFS)
+28449,1984,American Motors Corporation,Eagle SX/4 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Automatic 3-Speed,,1480,(FFS) CA model
+28451,1984,American Motors Corporation,Eagle SX/4 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Automatic 3-Speed,,1574,(FFS) CA model
+27586,1984,American Motors Corporation,Eagle SX/4 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Manual 4-Speed,,1405,(FFS)
+27589,1984,American Motors Corporation,Eagle SX/4 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Manual 4-Speed,,1504,(FFS)
+28450,1984,American Motors Corporation,Eagle SX/4 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Manual 4-Speed,,1455,(FFS)(SIL) CA model
+28452,1984,American Motors Corporation,Eagle SX/4 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Manual 4-Speed,,1554,(FFS) CA model
+27587,1984,American Motors Corporation,Eagle SX/4 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Manual 5-Speed,,1420,(FFS)
+27590,1984,American Motors Corporation,Eagle SX/4 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Manual 5-Speed,,1514,(FFS)
+28453,1984,American Motors Corporation,Eagle SX/4 4WD,Special Purpose Vehicle 4WD,4-Wheel or All-Wheel Drive,Manual 5-Speed,,1564,(FFS) CA model
+26599,1984,Aston Martin,Lagonda,Subcompact Cars,,Automatic 3-Speed,,7001,(GUZZLER)
+27716,1984,Aston Martin,Lagonda,Subcompact Cars,,Automatic 3-Speed,,7006,(GUZZLER) CA model
+26600,1984,Aston Martin,Saloon/Vantage/Volante,Subcompact Cars,,Automatic 3-Speed,,7001,(GUZZLER)
+27717,1984,Aston Martin,Saloon/Vantage/Volante,Subcompact Cars,,Automatic 3-Speed,,7006,(GUZZLER) CA model
+26601,1984,Aston Martin,Saloon/Vantage/Volante,Subcompact Cars,,Manual 5-Speed,,7001,(GUZZLER)
+27718,1984,Aston Martin,Saloon/Vantage/Volante,Subcompact Cars,,Manual 5-Speed,,7006,(GUZZLER) CA model
+26607,1984,Audi,4000,Subcompact Cars,,Automatic 3-Speed,,64011,(FFS)
+27724,1984,Audi,4000,Subcompact Cars,,Automatic 3-Speed,,64016,(FFS) CA model
+26608,1984,Audi,4000,Subcompact Cars,,Manual 5-Speed,,64011,(FFS)
+27725,1984,Audi,4000,Subcompact Cars,,Manual 5-Speed,,64016,(FFS) CA model
+26609,1984,Audi,4000 S quattro,Subcompact Cars,,Manual 5-Speed,,64061,(FFS)
+27726,1984,Audi,4000 S quattro,Subcompact Cars,,Manual 5-Speed,,64066,(FFS) CA model
+26930,1984,Audi,5000S,Midsize Cars,,Automatic 3-Speed,,64071,(FFS)
+26931,1984,Audi,5000S,Midsize Cars,,Automatic 3-Speed,,64031,"(FFS,TRBO)"
+28000,1984,Audi,5000S,Midsize Cars,,Automatic 3-Speed,,64036,"(FFS,TRBO) CA model"
+28001,1984,Audi,5000S,Midsize Cars,,Automatic 3-Speed,,64076,(FFS) CA model
+26932,1984,Audi,5000S,Midsize Cars,,Manual 5-Speed,,64071,(FFS)
+28002,1984,Audi,5000S,Midsize Cars,,Manual 5-Speed,,64076,(FFS) CA model
+27143,1984,Audi,5000S Wagon,Midsize Station Wagons,,Automatic 3-Speed,,64071,(FFS)
+28171,1984,Audi,5000S Wagon,Midsize Station Wagons,,Automatic 3-Speed,,64076,(FFS) CA model
+27144,1984,Audi,5000S Wagon,Midsize Station Wagons,,Manual 5-Speed,,64071,(FFS)
+28172,1984,Audi,5000S Wagon,Midsize Station Wagons,,Manual 5-Speed,,64076,(FFS) CA model
+26602,1984,Audi,Coupe GT,Subcompact Cars,,Automatic 3-Speed,,64020,(FFS)
+26604,1984,Audi,Coupe GT,Subcompact Cars,,Automatic 3-Speed,,64051,(FFS)
+27719,1984,Audi,Coupe GT,Subcompact Cars,,Automatic 3-Speed,,64025,(FFS) CA model
+27721,1984,Audi,Coupe GT,Subcompact Cars,,Automatic 3-Speed,,64056,(FFS) CA model
+26603,1984,Audi,Coupe GT,Subcompact Cars,,Manual 5-Speed,,64020,(FFS)
+26605,1984,Audi,Coupe GT,Subcompact Cars,,Manual 5-Speed,,64051,(FFS)
+27720,1984,Audi,Coupe GT,Subcompact Cars,,Manual 5-Speed,,64025,(FFS) CA model
+27722,1984,Audi,Coupe GT,Subcompact Cars,,Manual 5-Speed,,64056,(FFS) CA model
+26606,1984,Audi,Quattro,Subcompact Cars,,Manual 5-Speed,,64041,"(FFS,TRBO)"
+27723,1984,Audi,Quattro,Subcompact Cars,,Manual 5-Speed,,64046,"(FFS,TRBO) CA model"
+26588,1984,Avanti Motor Corporation,Avanti II,Minicompact Cars,,Automatic 4-Speed,,10010,(FFS)
+27706,1984,Avanti Motor Corporation,Avanti II,Minicompact Cars,,Automatic 4-Speed,,10015,(FFS) CA model
+26562,1984,Bertone,X1/9,Two Seaters,,Manual 5-Speed,,12710,(FFS)
+27682,1984,Bertone,X1/9,Two Seaters,,Manual 5-Speed,,12715,(FFS) CA model
+26820,1984,Bill Dovell Motor Car Company,Dovell 230CE,Compact Cars,,Automatic 4-Speed,,12120,(FFS)
+26821,1984,Bill Dovell Motor Car Company,Dovell 230E,Compact Cars,,Automatic 4-Speed,,12120,(FFS)
+26933,1984,Bitter Gmbh and Co. Kg,SC,Midsize Cars,,Automatic 3-Speed,,12211,(GUZZLER)
+26934,1984,Bitter Gmbh and Co. Kg,SC,Midsize Cars,,Manual 5-Speed,,12210,(GUZZLER)
+26610,1984,BMW,3 Series,Subcompact Cars,,Automatic 3-Speed,,12010,(FFS)
+27727,1984,BMW,3 Series,Subcompact Cars,,Automatic 3-Speed,,12015,(FFS) CA model
+26612,1984,BMW,3 Series,Subcompact Cars,,Automatic 4-Speed,,12040,(FFS)
+27729,1984,BMW,3 Series,Subcompact Cars,,Automatic 4-Speed,,12045,(FFS) CA model
+26611,1984,BMW,3 Series,Subcompact Cars,,Manual 5-Speed,,12010,(FFS)
+26613,1984,BMW,3 Series,Subcompact Cars,,Manual 5-Speed,,12040,(FFS)
+27728,1984,BMW,3 Series,Subcompact Cars,,Manual 5-Speed,,12015,(FFS) CA model
+27730,1984,BMW,3 Series,Subcompact Cars,,Manual 5-Speed,,12045,(FFS) CA model
+26797,1984,BMW,5 Series,Compact Cars,,Automatic 4-Speed,,12020,(FFS)
+26798,1984,BMW,5 Series,Compact Cars,,Automatic 4-Speed,,12030,(FFS)
+27888,1984,BMW,5 Series,Compact Cars,,Automatic 4-Speed,,12025,(FFS) CA model
+27889,1984,BMW,5 Series,Compact Cars,,Automatic 4-Speed,,12035,(FFS) CA model
+26614,1984,BMW,6 Series,Subcompact Cars,,Automatic 4-Speed,,12030,(FFS)
+27731,1984,BMW,6 Series,Subcompact Cars,,Automatic 4-Speed,,12035,(FFS) CA model
+26799,1984,BMW,7 Series,Compact Cars,,Automatic 4-Speed,,12030,(FFS)
+27890,1984,BMW,7 Series,Compact Cars,,Automatic 4-Speed,,12035,(FFS) CA model
+26935,1984,Buick,Century,Midsize Cars,,Automatic 3-Speed,,4220,(FFS)
+26936,1984,Buick,Century,Midsize Cars,,Automatic 3-Speed,,4402,(FFS)
+26938,1984,Buick,Century,Midsize Cars,,Automatic 3-Speed,,4303,(DIESEL)
+28003,1984,Buick,Century,Midsize Cars,,Automatic 3-Speed,,4225,(FFS) CA model
+28004,1984,Buick,Century,Midsize Cars,,Automatic 3-Speed,,4412,(FFS) CA model
+28006,1984,Buick,Century,Midsize Cars,,Automatic 3-Speed,,4322,(DIESEL) CA model
+26937,1984,Buick,Century,Midsize Cars,,Automatic 4-Speed,,4416,"(CAL,FFS)"
+28005,1984,Buick,Century,Midsize Cars,,Automatic 4-Speed,,4415,(FFS) CA model
+28007,1984,Buick,Century,Midsize Cars,,Automatic 4-Speed,,4320,(DIESEL) CA model
+27145,1984,Buick,Century Estate Wagon,Midsize Station Wagons,,Automatic 3-Speed,,4227,(CAL)(FFS)
+27146,1984,Buick,Century Estate Wagon,Midsize Station Wagons,,Automatic 3-Speed,,4403,(FFS)
+27148,1984,Buick,Century Estate Wagon,Midsize Station Wagons,,Automatic 3-Speed,,4303,(DIESEL)
+28173,1984,Buick,Century Estate Wagon,Midsize Station Wagons,,Automatic 3-Speed,,4239,(FFS) CA model
+28174,1984,Buick,Century Estate Wagon,Midsize Station Wagons,,Automatic 3-Speed,,4414,(FFS) CA model
+28176,1984,Buick,Century Estate Wagon,Midsize Station Wagons,,Automatic 3-Speed,,4322,(DIESEL) CA model
+27147,1984,Buick,Century Estate Wagon,Midsize Station Wagons,,Automatic 4-Speed,,4416,"(CAL,FFS)"
